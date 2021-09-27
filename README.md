@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gsmunizz
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently Web Development @ Trybe
 - 💞️ I’m looking to collaborate on react, react native and electron projects.
 - 📫 How to reach me gabriel.munizz@outlook.com.br
 
