@@ -1,4 +1,6 @@
-# Olá meu nome é Gabriel
+# Hi there!
+
+Meu nome é Gabriel Muniz
 
 <div align="center">
   <a href="https://github.com/gsmunizz">
