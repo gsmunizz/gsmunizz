@@ -15,7 +15,7 @@ Olá meu nome é Gabriel Muniz, sou Desenvolvedor de Software web formado pela T
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## Meus Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=gsmuniz&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gsmuniz&theme=city-lights&locale=pt_BR)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsmunizz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
