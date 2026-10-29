@@ -15,8 +15,8 @@ Olá meu nome é Gabriel Muniz, sou Desenvolvedor de Software web formado pela T
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## Meus Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=gsmuniz&theme=city-lights&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gsmunizz&theme=monokai&hide_border=true&border_radius=8&locale=pt_BR)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsmunizz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gsmunizz&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=gsmunizz&include_all_commits=true&theme=monokai)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gsmunizz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top_Langs](https://github-stats-extended.vercel.app/api/top-langs?username=gsmunizz&layout=compact&langs_count=4&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=gsmunizz&layout=compact&langs_count=4&theme=monokai)
